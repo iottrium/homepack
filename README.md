@@ -1,2 +1,2 @@
-# homepack
-HomePack battery architecture: low voltage battery, DC/DC converter electrically isolated
+# SinuPower
+SinuPower battery architecture: low voltage battery, DC/DC converter electrically isolated
